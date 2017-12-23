@@ -1,0 +1,40 @@
+2017-12-10 14:12:26 INFO  Calculator:30 -  ClassName:Calculator ################### Begin execution 
+2017-12-10 14:12:26 INFO  Calculator:46 -  ClassName:Calculator ################### Method:readFriendsFile 
+2017-12-10 14:12:26 DEBUG Calculator:48 - DetailAlice
+2017-12-10 14:12:26 DEBUG Calculator:48 - DetailBob
+2017-12-10 14:12:26 DEBUG Calculator:48 - DetailClaire
+2017-12-10 14:12:26 DEBUG Calculator:48 - DetailDavid
+2017-12-10 14:12:26 INFO  Calculator:61 -  ClassName:Calculator ################### Method:readExpenseFile 
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailClaire paid $100.10 for phone bill.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailBob paid $55.90 for petrol.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailDavid paid $170.80 for groceries.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailDavid paid $33.40 for breakfast.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailBob paid $85.60 for lunch.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailClaire paid $103.45 for dinner.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailClaire paid $30.80 for snacks.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailBob paid $70 for house-cleaning.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailDavid paid $63.50 for utilities.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailAlice paid $7 for house-cleaning.
+2017-12-10 14:12:26 DEBUG Calculator:64 - DetailAlice paid $37 for house-cleaning.
+2017-12-10 14:12:26 INFO  Calculator:106 -  ClassName:Calculator ################### Method:calculateExpense 
+2017-12-10 14:12:26 INFO  Calculator:37 -  ClassName:Calculator ################### End here 
+2017-12-10 14:13:59 INFO  Calculator:30 -  ClassName:Calculator ################### Begin execution 
+2017-12-10 14:13:59 INFO  Calculator:46 -  ClassName:Calculator ################### Method:readFriendsFile 
+2017-12-10 14:13:59 DEBUG Calculator:48 - DetailAlice
+2017-12-10 14:13:59 DEBUG Calculator:48 - DetailBob
+2017-12-10 14:13:59 DEBUG Calculator:48 - DetailClaire
+2017-12-10 14:13:59 DEBUG Calculator:48 - DetailDavid
+2017-12-10 14:13:59 INFO  Calculator:61 -  ClassName:Calculator ################### Method:readExpenseFile 
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailClaire paid $100.10 for phone bill.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailBob paid $55.90 for petrol.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailDavid paid $170.80 for groceries.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailDavid paid $33.40 for breakfast.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailBob paid $85.60 for lunch.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailClaire paid $103.45 for dinner.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailClaire paid $30.80 for snacks.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailBob paid $70 for house-cleaning.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailDavid paid $63.50 for utilities.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailAlice paid $7 for house-cleaning.
+2017-12-10 14:13:59 DEBUG Calculator:64 - DetailAlice paid $37 for house-cleaning.
+2017-12-10 14:13:59 INFO  Calculator:106 -  ClassName:Calculator ################### Method:calculateExpense 
+2017-12-10 14:13:59 INFO  Calculator:37 -  ClassName:Calculator ################### End here 
