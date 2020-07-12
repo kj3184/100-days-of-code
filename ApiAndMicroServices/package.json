@@ -1,11 +1,4 @@
 {
   "name": "fcc_learn_api_and_microservices",
-  "version": "1.0.0",
-  "description": "learn to write api using node.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "kunal jadhav",
-  "license": "ISC"
+  "author": "kunal jadhav"
 }
